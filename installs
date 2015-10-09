@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo apt-get install ipython python-pytest python-psutil
